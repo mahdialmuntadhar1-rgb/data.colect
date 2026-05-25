@@ -1,0 +1,6 @@
+{
+  "name": "Iraq Business Intelligence Dashboard",
+  "description": "Prototype for scraping and managing business information across 19 Iraqi cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
